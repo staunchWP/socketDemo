@@ -6,7 +6,7 @@ package com.example.soketdemo;
  */
 public class Constant {
     //webSocket相关配置
-    //链接地址
+    //链接
     public static String WEBSOCKETPATHPERFIX = "/ws-push";
     public static String WEBSOCKETPATH = "/endpointWisely";
     //消息代理路径
